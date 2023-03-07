@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: jvm-build-suite-component-vclc
     app.kubernetes.io/part-of: jvm-build-suite-application-inex
-  name: jvm-build-suite-componentaexd
+  name: jvm-build-suite-componentv3nf
   namespace: jvm-build-ufjx-tenant
 spec:
   port:

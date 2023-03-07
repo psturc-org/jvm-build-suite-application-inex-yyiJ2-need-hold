@@ -23,7 +23,7 @@ spec:
         app.kubernetes.io/instance: jvm-build-suite-component-vclc
     spec:
       containers:
-      - image: quay.io/psturc/test-images:f334e49dcc31461893d1818a73464291
+      - image: quay.io/psturc/test-images@sha256:44811abbe3059b482899630bd6f7a9c071b3ca042c7f825b886b9416ed454f01
         imagePullPolicy: Always
         livenessProbe:
           httpGet:
